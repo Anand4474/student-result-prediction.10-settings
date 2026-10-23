@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  IMAGE_NAME: student-result-prediction
+  IMAGE_NAME: srp-render
 
 jobs:
   build-test-push:
